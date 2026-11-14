@@ -2,8 +2,6 @@
 
 A differential-drive robot (box chassis, two drive wheels, caster) with an RGB camera, described in URDF/Xacro and simulated in **Gazebo** and **RViz**.
 
-<img width="1008" height="580" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4589ad99-52bd-4346-ab86-437ebc184bfd" />
-
 ## Features
 
 - Xacro-based robot description with reusable inertia macros
