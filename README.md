@@ -1,6 +1,10 @@
 # Simple_robotic_vehicle: ROS 2 Differential-Drive Robot with Camera
 
 A differential-drive robot (box chassis, two drive wheels, caster) with an RGB camera, described in URDF/Xacro and simulated in **Gazebo** and **RViz**.
+<img width="970" height="543" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/0719c70f-5b9f-4a3f-8d82-7b34242b6dd2" />
+
+<img width="1901" height="994" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/b3a1046d-b99b-4c63-82cd-43d018e48296" />
+
 
 ## Features
 
